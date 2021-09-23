@@ -5,4 +5,4 @@ You can monitor n number of servers from one central server. And you will get th
 3) Open the pssh.sh file and change your certificate file name.
 4) After execution first open index.html file.
 5) Don't forget to add your certificate file in this directory in which all these contents are kept.
-5) This is very basic script. If you want full scripts then contact me on +919168109033, Name - Aaftab Hamdani.
+6) This is very basic script. If you want full scripts then contact me on aaftabhamdani@gmail.com, Name - Aaftab Hamdani.
